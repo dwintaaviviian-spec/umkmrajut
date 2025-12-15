@@ -26,8 +26,4 @@ Website sederhana untuk menampilkan produk UMKM Rajut, berisi informasi profil u
 - CSS
 - JavaScript
 
-## Tujuan
-Project ini dibuat sebagai media promosi sederhana untuk UMKM Rajut agar produk dapat dikenal lebih luas melalui website.
 
-## Cara Menjalankan
-Buka
